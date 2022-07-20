@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/sam3ds/-Product-preview-card-component-](https://github.com/sam3ds/-Product-preview-card-component-)
 - Live Site URL: [product-preview-card-component](https://sam3ds.github.io/-Product-preview-card-component-/)
 
 ## My process
